@@ -1,0 +1,23 @@
+body{
+	display: flex;
+	flex-wrap: wrap;
+	height: 100%;
+}
+
+.page1{
+	width: 100%;
+	background-color: blue;
+	height: 100vh;
+}
+
+.page2{
+	width: 100%;
+	background-color: red;
+	height: 100vh;
+}
+
+.page3{
+	width: 100%;
+	background-color: yellow;
+	height: 100vh;
+}
